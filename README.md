@@ -46,11 +46,10 @@ gem 'github-pages', group: :jekyll_plugins
 
 Then in the same home directory, run `bundle install`.
 
+At last, run `bundle exec jekyll serve`, and server is on localhost:4000.
 
 
 ### Some Debugging Information on 2023.03.11
-
-At last, run `bundle exec jekyll serve`, and server is on localhost:4000.
 
 
 - First, Bundle install
